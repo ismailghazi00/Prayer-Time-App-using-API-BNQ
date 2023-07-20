@@ -133,7 +133,7 @@ class _PrayerTimeScreenState extends State<PrayerTimeScreen> {
         Text(
           time,
           style: Theme.of(context).textTheme.bodyMedium,
-        ),
+        )
       ]),
     );
   }
